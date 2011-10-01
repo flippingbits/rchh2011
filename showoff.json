@@ -1,0 +1,10 @@
+{
+  "name": "Mountable Apps",
+  "sections": [
+    { "section" : "01_intro" },
+    { "section" : "02_generator" },
+    { "section" : "03_mountable_apps" },
+    { "section" : "04_future" },
+    { "section" : "05_conclusion" }
+  ]
+}

@@ -1,0 +1,156 @@
+/**
+* Color scheme: http://kuler.adobe.com/#themeID/4817
+*/
+
+body {
+    font-family: "helvetica neue","helvetica","lucida grande",arial,sans-serif;
+    color: #000;
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.4;
+    font-size: 18px;
+}
+
+body.fullScreen {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Title sizes */
+h1 {
+	font-size: 48px;
+	color: #263248;
+}
+
+h2 {
+	font-size: 36px;
+	color: #A4EEFF;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+#preso a,
+#preso a:visited,
+#preso a:link {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+/* Individual slides */
+#preso .new-chapter h1 {
+	font-size: 70px;
+	font-weight: bold;
+	line-height: 70px;
+}
+
+#preso .full-code h1 {
+	margin-top: 2.5em;
+}
+
+#preso .background-image h1,
+#preso .background-image h2 {
+    position: absolute;
+    color: #fff;
+    background-color: #000;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    opacity: 0.7;
+    filter:alpha(opacity=70);
+    -moz-opacity:0.7;
+    -khtml-opacity: 0.7;
+    left: 2em;
+}
+#preso .background-image h2 {
+    clear: both;
+		font-size: 30px;
+		left: -4.6em;
+    position: relative;
+    top: 4em;
+		width: 7.3em;
+}
+
+/* Code font*/
+#preso code,
+#preso pre {
+    font-family: Consolas,
+             "Andale Mono",
+             "Lucida Console",
+             "Lucida Sans Typewriter",
+             "DejaVu Sans Mono",
+             "Bitstream Vera Sans Mono",
+             "Liberation Mono",
+             "Nimbus Mono L",
+             Monaco,
+             "Courier New",
+             Courier,
+             monospace;
+    color: #000;
+    padding: 0.5em;
+    font-size: 18px;
+    background-color: transparent;
+}
+
+#preso pre {
+	margin-left: 0;
+}
+
+#preso code {
+    display: block;
+    border: 1px dashed #263248;
+    background-color: #ddd;
+}
+
+/* Slide style */
+#preso, .slide {
+    background-color: transparent;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    height: 768px;
+}
+
+#preso, .slide {
+  border: none !important;
+  margin-top: -30px;
+}
+
+/* Default widths */
+#preso h2,
+#preso ul,
+#preso code {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#preso ul {
+    margin: 0 auto;
+    text-align: left;
+}
+
+#preso ul > li {
+    font-size: 28px;
+    margin-bottom: 0.2em;
+    align: left;
+}
+#preso ul > li:before { content: "» "; }
+
+#preso ul > li > ul > li {
+    margin-left: 1em;
+    margin-bottom: 0.2em;
+    font-size: 0.8em;
+}
+#preso ul > li > ul > li:before { content: "- "; }
