@@ -27,9 +27,11 @@
 
 # Elegancy
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Kick-Ass Rock Star
+
+![rock-stars](kiss.jpg)
 
 !SLIDE full-page
 

@@ -130,9 +130,12 @@ h3 {
 #preso h2,
 #preso ul,
 #preso code {
+	width: 640px;
+  margin: 0 auto;
+}
+
+#preso code {
     display: block;
-    width: 600px;
-    margin: 0 auto;
     text-align: left;
 }
 

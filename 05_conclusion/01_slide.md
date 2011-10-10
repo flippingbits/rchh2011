@@ -1,6 +1,8 @@
 !SLIDE full-page
 # Credits #
 
+* http://www.flickr.com/photos/anirudhkoul/3725939594/
+
 !SLIDE full-page
 
 #Thank you!#

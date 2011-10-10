@@ -6,16 +6,35 @@
 
 # Add the dependency to Gemfile
 
-    gem "app_name", :path => "~/Codes/app_name"
+    gem "simple_blog", :path => "~/Codes/simple_blog"
+
+!SLIDE full-page
+
+# Install migrations
+
+    $ rake simple_blog:install:migrations
+    $ rake db:migrate
 
 !SLIDE full-page
 
 # Add routes
 
     Railscamp::Application.routes.draw do
-      mount AppName::Engine => "/app_name"
+      mount SimpleBlog::Engine => "/blog"
     end
 
 !SLIDE full-page
 
-# Enjoy!
+# http://localhost:3000/blog
+
+!SLIDE full-page new-chapter
+
+# Real-life examples
+
+!SLIDE full-page
+
+# Forem
+
+!SLIDE full-page
+
+# ADD: CMS/Admin example engine
