@@ -33,9 +33,11 @@
 
 ![rock-stars](kiss.jpg)
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Awesomeness <3
+
+![Awesomeness](awesome.jpg)
 
 !SLIDE full-page new-chapter
 
