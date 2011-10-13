@@ -23,17 +23,17 @@
 
 # INCEPTION MEME PLACEHOLDER!
 
-!SLIDE full-page
+!SLIDE full-page center-fixed-top
 
 # Elegancy
 
-!SLIDE full-page center
+!SLIDE full-page center-fixed-top
 
 # Kick-Ass Rock Star
 
 ![rock-stars](kiss.jpg)
 
-!SLIDE full-page center
+!SLIDE full-page center-fixed-top
 
 # Awesomeness <3
 

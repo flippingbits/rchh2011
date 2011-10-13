@@ -44,6 +44,13 @@ h3 {
     text-decoration: none;
 }
 
+#preso h1 a,
+#preso h1 a:visited,
+#preso h1 a:link {
+    color: #263248;
+    font-weight: normal;
+    text-decoration: none;
+}
 
 /* Individual slides */
 #preso .new-chapter h1 {
@@ -124,6 +131,14 @@ h3 {
 #preso, .slide {
   border: none !important;
   margin-top: -30px;
+}
+
+#preso .slide .center-fixed-top {
+	margin:  100px auto 0 auto !important;
+}
+
+#preso .slide .center-fixed {
+	margin:  150px auto 0 auto !important;
 }
 
 /* Default widths */

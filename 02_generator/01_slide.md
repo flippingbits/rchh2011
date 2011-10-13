@@ -91,7 +91,7 @@
 
 # Everything gets namespaced
 
-!SLIDE full-page incremental transition=fade
+!SLIDE full-page center-fixed incremental transition=fade
 
 # Everything gets namespaced
 
@@ -101,4 +101,5 @@
 * View-Templates
 * Layouts
 * Routes
+* Configuration
 * ...
