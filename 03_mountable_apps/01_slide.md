@@ -1,6 +1,6 @@
 !SLIDE full-page new-chapter
 
-# Mounting
+# Mounting the app
 
 !SLIDE full-page
 
