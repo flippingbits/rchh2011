@@ -70,23 +70,6 @@
       end
     end
 
-!SLIDE full-page full-code
-
-# Generating models
-
-    $ rails generate model Article title:string content:text
-
-!SLIDE full-page full-code
-
-# Automatic namespacing
-
-    # app/models/simple_blog/article.rb
-
-    module SimpleBlog
-      class Article < ActiveRecord::Base
-      end
-    end
-
 !SLIDE full-page
 
 # Everything gets namespaced
@@ -103,3 +86,20 @@
 * Routes
 * Configuration
 * ...
+
+!SLIDE full-page full-code
+
+# Generating models
+
+    $ rails generate model Article title:string content:text
+
+!SLIDE full-page full-code
+
+# Automatic namespacing
+
+    # app/models/simple_blog/article.rb
+
+    module SimpleBlog
+      class Article < ActiveRecord::Base
+      end
+    end

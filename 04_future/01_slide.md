@@ -9,3 +9,7 @@
 !SLIDE full-page
 
 # More documentation
+
+!SLIDE full-page
+
+# Rails apps should be mountable by default

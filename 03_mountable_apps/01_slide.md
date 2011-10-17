@@ -25,7 +25,15 @@
 
 !SLIDE full-page
 
-# http://localhost:3000/blog
+# Restart server
+
+!SLIDE full-page
+
+# GET [http://localhost:3000/blog](http://localhost:3000/blog)
+
+!SLIDE full-page
+
+# Enjoy!
 
 !SLIDE full-page new-chapter
 
@@ -34,7 +42,9 @@
 !SLIDE full-page
 
 # Forem
+## [https://github.com/radar/forem](https://github.com/radar/forem)
 
 !SLIDE full-page
 
-# ADD: CMS/Admin example engine
+# Rails Admin
+## [https://github.com/sferik/rails_admin](https://github.com/sferik/rails_admin)

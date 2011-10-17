@@ -57,6 +57,10 @@
 
 !SLIDE full-page
 
+# Rails generators
+
+!SLIDE full-page
+
 # Asset pipeline
 
 !SLIDE full-page
