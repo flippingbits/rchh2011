@@ -27,6 +27,8 @@
 
 # Elegancy
 
+![svane](svane.jpg)
+
 !SLIDE full-page center-fixed-top
 
 # Kick-Ass Rock Star
