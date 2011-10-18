@@ -74,7 +74,7 @@
 
 # Everything gets namespaced
 
-!SLIDE full-page center-fixed incremental transition=fade
+!SLIDE full-page center-fixed smbullets incremental transition=fade
 
 # Everything gets namespaced
 

@@ -156,14 +156,20 @@ h3 {
 
 #preso ul {
     margin: 0 auto;
+		list-style-type: none;
     text-align: left;
 }
 
 #preso ul > li {
     font-size: 28px;
-    margin-bottom: 0.2em;
-    align: left;
+		padding: 5px;
+    text-align: left;
 }
+
+.center ul > li {
+		text-align: center;
+}
+
 #preso ul > li:before { content: "» "; }
 
 #preso ul > li > ul > li {

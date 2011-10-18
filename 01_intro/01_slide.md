@@ -19,9 +19,9 @@
 
 # It's a Rails app in a Rails app.
 
-!SLIDE full-page
+!SLIDE full-page center background-image
 
-# INCEPTION MEME PLACEHOLDER!
+![background](inception.png)
 
 !SLIDE full-page center-fixed-top
 
