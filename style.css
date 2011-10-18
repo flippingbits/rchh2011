@@ -110,7 +110,7 @@ h3 {
 }
 
 #preso pre {
-	margin-left: 0;
+	margin: 0 auto !important;
 }
 
 #preso code {

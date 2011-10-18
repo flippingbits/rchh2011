@@ -2,7 +2,7 @@
 
 # Let's get our hands dirty
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Create a new Mountable App
 
@@ -27,7 +27,7 @@
       script
       test
 
-!SLIDE full-page full-code
+!SLIDE full-page center
 
 # simple_blog.gemspec
 
@@ -46,7 +46,7 @@
       s.add_development_dependency "sqlite3"
     end
 
-!SLIDE full-page full-code
+!SLIDE full-page center
 
 # lib/simple\_blog/engine.rb
 
@@ -56,7 +56,7 @@
       end
     end
 
-!SLIDE full-page full-code
+!SLIDE full-page center
 
 # Configuration
 
@@ -87,13 +87,13 @@
 * Configuration
 * ...
 
-!SLIDE full-page full-code
+!SLIDE full-page center
 
 # Generating models
 
     $ rails generate model Article title:string content:text
 
-!SLIDE full-page full-code
+!SLIDE full-page center
 
 # Automatic namespacing
 

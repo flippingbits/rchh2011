@@ -1,7 +1,6 @@
-!SLIDE center background-image
-![background](title.jpg)
+!SLIDE full-page new-chapter
+
 # Mountable Apps #
-## Stefan Sprenger ##
 
 !SLIDE full-page
 # Intro (blahblah)#

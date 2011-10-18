@@ -2,20 +2,20 @@
 
 # Mounting the app
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Add the dependency to Gemfile
 
     gem "simple_blog", :path => "~/Codes/simple_blog"
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Install migrations
 
     $ rake simple_blog:install:migrations
     $ rake db:migrate
 
-!SLIDE full-page
+!SLIDE full-page center
 
 # Add routes
 
