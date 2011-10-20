@@ -1,14 +1,14 @@
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # Let's get our hands dirty
 
-!SLIDE full-page center
+!SLIDE center
 
 # Create a new Mountable App
 
     $ rails generate plugin new simple_blog --full --mountable
 
-!SLIDE full-page full-code
+!SLIDE full-code
 
 # App structure
 
@@ -27,10 +27,11 @@
       script
       test
 
-!SLIDE full-page center
+!SLIDE center
 
 # simple_blog.gemspec
 
+    @@@ruby
     Gem::Specification.new do |s|
       s.name        = "simple_blog"
       s.version     = SimpleBlog::VERSION
@@ -46,20 +47,22 @@
       s.add_development_dependency "sqlite3"
     end
 
-!SLIDE full-page center
+!SLIDE center
 
 # lib/simple\_blog/engine.rb
 
+    @@@ruby
     module SimpleBlog
       class Engine < Rails::Engine
         isolate_namespace SimpleBlog
       end
     end
 
-!SLIDE full-page center
+!SLIDE center
 
 # Configuration
 
+    @@@ruby
     # lib/simple_blog/engine.rb
 
     module SimpleBlog
@@ -70,11 +73,11 @@
       end
     end
 
-!SLIDE full-page
+!SLIDE
 
 # Everything gets namespaced
 
-!SLIDE full-page center-fixed smbullets incremental transition=fade
+!SLIDE center-fixed smbullets incremental
 
 # Everything gets namespaced
 
@@ -87,16 +90,17 @@
 * Configuration
 * ...
 
-!SLIDE full-page center
+!SLIDE center
 
 # Generating models
 
     $ rails generate model Article title:string content:text
 
-!SLIDE full-page center
+!SLIDE center
 
 # Automatic namespacing
 
+    @@@ruby
     # app/models/simple_blog/article.rb
 
     module SimpleBlog

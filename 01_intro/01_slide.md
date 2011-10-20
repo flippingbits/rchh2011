@@ -1,8 +1,8 @@
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # Mountable Apps #
 
-!SLIDE full-page
+!SLIDE
 # Intro (blahblah)#
 
 ### [@flipping\_bits](http://twitter.com/flipping_bits)
@@ -10,60 +10,60 @@
 ### [http://flippingbits.org](http://flippingbits.org)
 ### [http://dkd.de](http://dkd.de)
 
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
+
+# Don't repeat yourself
+
+!SLIDE new-chapter
 
 # What's a Mountable App™?
 
-!SLIDE full-page
+!SLIDE
 
 # It's a Rails app in a Rails app.
 
-!SLIDE full-page center background-image
-
-![background](inception.png)
-
-!SLIDE full-page center-fixed-top
+!SLIDE center-fixed-top
 
 # Elegancy
 
 ![svane](svane.jpg)
 
-!SLIDE full-page center-fixed-top
+!SLIDE center-fixed-top
 
-# Kick-Ass Rock Star
+# Powerful
 
-![rock-stars](kiss.jpg)
+## PICTURE FOR POWERFUL
 
-!SLIDE full-page center-fixed-top
+!SLIDE center-fixed-top
 
-# Awesomeness <3
+# New possibilities <3
 
-![Awesomeness](awesome.jpg)
+## PICTURE FOR POSSIBILITIES
 
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # Core Features
 
-!SLIDE full-page
+!SLIDE
 
 # Just a Rails app
 
-!SLIDE full-page
+!SLIDE
 
 # Packaged as a gem
 
-!SLIDE full-page
+!SLIDE
 
 # Isolated namespace
 
-!SLIDE full-page
+!SLIDE
 
 # Rails generators
 
-!SLIDE full-page
+!SLIDE
 
 # Asset pipeline
 
-!SLIDE full-page
+!SLIDE
 
 # 100% testable

@@ -1,50 +1,52 @@
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # Mounting the app
 
-!SLIDE full-page center
+!SLIDE center
 
 # Add the dependency to Gemfile
 
+    @@@ruby
     gem "simple_blog", :path => "~/Codes/simple_blog"
 
-!SLIDE full-page center
+!SLIDE center
 
 # Install migrations
 
     $ rake simple_blog:install:migrations
     $ rake db:migrate
 
-!SLIDE full-page center
+!SLIDE center
 
 # Add routes
 
+    @@@ruby
     Railscamp::Application.routes.draw do
       mount SimpleBlog::Engine => "/blog"
     end
 
-!SLIDE full-page
+!SLIDE
 
 # Restart server
 
-!SLIDE full-page
+!SLIDE
 
 # GET [http://localhost:3000/blog](http://localhost:3000/blog)
 
-!SLIDE full-page
+!SLIDE
 
 # Enjoy!
 
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # Real-life examples
 
-!SLIDE full-page
+!SLIDE
 
 # Forem
 ## [https://github.com/radar/forem](https://github.com/radar/forem)
 
-!SLIDE full-page
+!SLIDE
 
 # Rails Admin
 ## [https://github.com/sferik/rails_admin](https://github.com/sferik/rails_admin)

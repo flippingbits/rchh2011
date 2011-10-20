@@ -1,15 +1,19 @@
-!SLIDE full-page new-chapter
+!SLIDE new-chapter
 
 # The future
 
-!SLIDE full-page
+!SLIDE
 
 # More independency
 
-!SLIDE full-page
+!SLIDE
 
 # More documentation
 
-!SLIDE full-page
+!SLIDE
 
 # Rails apps should be mountable by default
+
+!SLIDE
+
+# Rails console

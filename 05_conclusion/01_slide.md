@@ -1,4 +1,4 @@
-!SLIDE full-page center
+!SLIDE center
 
 # Credits
 
@@ -7,8 +7,12 @@
 * Anirudh Koul ([http://bit.ly/mUuODe](http://bit.ly/mUuODe))
 * Kjartan Michalsen ([http://bit.ly/nvz1C2](http://bit.ly/nvz1C2))
 
-!SLIDE full-page
+!SLIDE
 
-#Thank you!#
+# Questions?
+
+!SLIDE
+
+# Thank you!
 ### [@flipping\_bits](http://twitter.com/flipping_bits)
-### [http://flippingbits.org](http://flippingbits.org)
+### [https://github.com/flippingbits/rchh2011](https://github.com/flippingbits/rchh2011)
