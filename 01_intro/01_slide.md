@@ -1,6 +1,6 @@
-!SLIDE new-chapter
+!SLIDE front
 
-# Mountable Apps #
+# Mountable Apps
 
 !SLIDE
 # Intro (blahblah)#
@@ -12,7 +12,15 @@
 
 !SLIDE new-chapter
 
-# Don't repeat yourself
+# Don't repeat yourself.
+
+!SLIDE new-chapter
+
+# Don't repeat <span class="underlined">code</span>.
+
+!SLIDE new-chapter
+
+# Don't repeat <span class="underlined">features</span>.
 
 !SLIDE new-chapter
 
@@ -36,9 +44,9 @@
 
 !SLIDE center-fixed-top
 
-# New possibilities <3
+# Less pain <3
 
-## PICTURE FOR POSSIBILITIES
+## PICTURE of drugs || pain
 
 !SLIDE new-chapter
 

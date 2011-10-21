@@ -4,7 +4,7 @@
 
 !SLIDE
 
-# More independency
+# More <span class="underlined">independency</span>
 
 !SLIDE
 
@@ -12,7 +12,7 @@
 
 !SLIDE
 
-# Rails apps should be mountable by default
+# Mountable <span class="underlined">by default</span>
 
 !SLIDE
 

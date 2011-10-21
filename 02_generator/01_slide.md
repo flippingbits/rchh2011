@@ -58,6 +58,10 @@
       end
     end
 
+!SLIDE
+
+# <span class="underlined">Configure</span> it like a Rails app
+
 !SLIDE center
 
 # Configuration
@@ -75,9 +79,9 @@
 
 !SLIDE
 
-# Everything gets namespaced
+# Everything gets <span class="underlined">namespaced</span>
 
-!SLIDE center-fixed smbullets incremental
+!SLIDE incremental
 
 # Everything gets namespaced
 
@@ -87,7 +91,6 @@
 * View-Templates
 * Layouts
 * Routes
-* Configuration
 * ...
 
 !SLIDE center
