@@ -1,3 +1,5 @@
+document.write("<link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>");
+
 $(document).ready(function() {
 
 });
