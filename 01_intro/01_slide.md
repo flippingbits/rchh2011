@@ -40,13 +40,13 @@
 
 # Powerful
 
-## PICTURE FOR POWERFUL
+![powerful](powerful.jpg)
 
 !SLIDE center-fixed-top
 
 # Less pain <3
 
-## PICTURE of drugs || pain
+![pain](pain.jpg)
 
 !SLIDE new-chapter
 

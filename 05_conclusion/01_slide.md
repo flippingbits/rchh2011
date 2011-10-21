@@ -1,11 +1,10 @@
-!SLIDE center
+!SLIDE center small-list
 
 # Credits
 
-* [http://bit.ly/njigcP](http://bit.ly/njigcP)
-* Selena N. B. H. ([http://bit.ly/eK0t6C](http://bit.ly/eK0t6C))
-* Anirudh Koul ([http://bit.ly/mUuODe](http://bit.ly/mUuODe))
 * Kjartan Michalsen ([http://bit.ly/nvz1C2](http://bit.ly/nvz1C2))
+* Jon Curnow ([http://bit.ly/rr9V0G](http://bit.ly/rr9V0G))
+* Michael @ NW Lens ([http://bit.ly/qAIp22](http://bit.ly/qAIp22))
 
 !SLIDE
 

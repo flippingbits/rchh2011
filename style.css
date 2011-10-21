@@ -149,9 +149,13 @@ code {
 }
 
 ul > li {
-  font-size: 28px;
-  padding: 5px;
+  font-size: 40px;
+  padding: 7px !important;
   text-align: left;
+}
+
+.small-list ul > li {
+	font-size: 30px;
 }
 
 ul > li:before {
@@ -163,6 +167,15 @@ ul > li > ul > li {
   margin-bottom: 0.2em;
   font-size: 0.8em;
 }
+
 ul > li > ul > li:before {
-content: "- ";
+	content: "- ";
+}
+
+.sh_ruby .sh_keyword {
+	color: #000 !important;
+}
+
+.sh_ruby .sh_string {
+	color: brown !important;
 }
