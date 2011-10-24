@@ -24,7 +24,7 @@
 
 !SLIDE new-chapter
 
-# What's a Mountable App™?
+# What's a Mountable App?
 
 !SLIDE
 
@@ -59,6 +59,10 @@
 !SLIDE
 
 # Packaged as a gem
+
+!SLIDE
+
+# Dependencies
 
 !SLIDE
 
