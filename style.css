@@ -11,16 +11,6 @@ body {
   font-size: 18px;
 }
 
-body.fullScreen {
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 h1 {
 	font-size: 65px;
 }
@@ -55,24 +45,91 @@ h1 a:link {
   text-decoration: none;
 }
 
+/* Default widths */
+h2,
+ul,
+code {
+	width: 650px;
+  margin: 0 auto;
+}
+
+.code-740 code {
+	width: 740px;
+}
+
+code {
+	font-size: 21px !important;
+  display: block;
+  text-align: left;
+}
+
+.content ul {
+  margin: 0 auto;
+  list-style: none;
+  list-style-type: none;
+  text-align: left;
+}
+
+ul > li {
+  font-size: 40px;
+  padding: 7px !important;
+  text-align: left;
+}
+
+ul > li:before {
+  content: "» ";
+}
+
+ul > li > ul > li {
+  margin-left: 1em;
+  margin-bottom: 0.2em;
+  font-size: 0.8em;
+}
+
+ul > li > ul > li:before {
+	content: "- ";
+}
+
 .underlined {
 	border-bottom: 10px solid #000;
+}
+
+.features ul {
+	margin: 0 auto;
+	padding: 0;
+	width: 400px;
+}
+
+.features li {
+	background-color: #7F203B;
+	color: #FFF;
+	margin: 5px 0;
+	margin-left: 0 !important;
+	padding-left: 20px !important;
+}
+
+.features li:before {
+  content: "";
 }
 
 .front h1 {
 	font-size: 100px;
 	line-height: 100px;
 	font-weight: bold;
+	margin: 0 0 0.15em 0;
 }
 
+.big-headline h1,
 .new-chapter h1 {
   font-size: 80px;
   font-weight: bold;
   line-height: 80px;
 }
 
-.full-code h1 {
-	margin-top: 2.5em;
+.new-chapter h1 {
+	background-color: #D94F00 !important;
+	color: #FFF;
+	line-height: 768px;
 }
 
 /* Code font*/
@@ -128,49 +185,7 @@ code {
 	margin:  150px auto 0 auto !important;
 }
 
-/* Default widths */
-h2,
-ul,
-code {
-	width: 640px;
-  margin: 0 auto;
-}
-
-code {
-  display: block;
-  text-align: left;
-}
-
-.content ul {
-  margin: 0 auto;
-  list-style: none;
-  list-style-type: none;
-  text-align: left;
-}
-
-ul > li {
-  font-size: 40px;
-  padding: 7px !important;
-  text-align: left;
-}
-
-.small-list ul > li {
-	font-size: 30px;
-}
-
-ul > li:before {
-  content: "» ";
-}
-
-ul > li > ul > li {
-  margin-left: 1em;
-  margin-bottom: 0.2em;
-  font-size: 0.8em;
-}
-
-ul > li > ul > li:before {
-	content: "- ";
-}
+/* Syntax highlighting */
 
 .sh_ruby .sh_keyword {
 	color: #000 !important;

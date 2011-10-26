@@ -2,13 +2,29 @@
 
 # Let's get our hands dirty
 
+!SLIDE
+
+# Generator
+
+!SLIDE
+
+# rails plugin new _app\_name_
+
+!SLIDE
+
+# --full
+
+!SLIDE
+
+# --mountable
+
 !SLIDE center
 
 # Create a new Mountable App
 
-    $ rails generate plugin new simple_blog --full --mountable
+    $ rails plugin new simple_blog --full --mountable
 
-!SLIDE full-code
+!SLIDE
 
 # App structure
 
@@ -27,7 +43,7 @@
       script
       test
 
-!SLIDE center
+!SLIDE center code-740
 
 # simple_blog.gemspec
 
@@ -93,7 +109,7 @@
 * Routes
 * ...
 
-!SLIDE center
+!SLIDE center code-740
 
 # Generating models
 

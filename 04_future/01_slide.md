@@ -4,15 +4,11 @@
 
 !SLIDE
 
-# More <span class="underlined">independency</span>
+# More independency
 
 !SLIDE
 
 # More documentation
-
-!SLIDE
-
-# Mountable <span class="underlined">by default</span>
 
 !SLIDE
 

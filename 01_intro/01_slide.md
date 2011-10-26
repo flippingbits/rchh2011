@@ -1,9 +1,11 @@
 !SLIDE front
 
 # Mountable Apps
+## Stefan Sprenger
 
 !SLIDE
-# Intro (blahblah)#
+
+# About me
 
 ### [@flipping\_bits](http://twitter.com/flipping_bits)
 ### [http://github.com/flippingbits](http://github.com/flippingbits)
@@ -14,13 +16,36 @@
 
 # Don't repeat yourself.
 
-!SLIDE new-chapter
+!SLIDE big-headline
 
 # Don't repeat <span class="underlined">code</span>.
 
-!SLIDE new-chapter
+!SLIDE big-headline
 
 # Don't repeat <span class="underlined">features</span>.
+
+!SLIDE
+
+# Example: Online shop
+
+!SLIDE features incremental center-fixed-top
+
+# Before Rails 3.1
+
+* Products
+* Search
+* Blog
+* Contact form
+* Forum
+* Static pages
+
+!SLIDE features incremental center-fixed-top
+
+# Since Rails 3.1
+
+* Products
+* Search
+* \+ Mountable Apps
 
 !SLIDE new-chapter
 
@@ -29,24 +54,6 @@
 !SLIDE
 
 # It's a Rails app in a Rails app.
-
-!SLIDE center-fixed-top
-
-# Elegancy
-
-![svane](svane.jpg)
-
-!SLIDE center-fixed-top
-
-# Powerful
-
-![powerful](powerful.jpg)
-
-!SLIDE center-fixed-top
-
-# Less pain <3
-
-![pain](pain.jpg)
 
 !SLIDE new-chapter
 
