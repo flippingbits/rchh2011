@@ -61,7 +61,7 @@
 
 !SLIDE
 
-# Just a Rails app
+# MVC
 
 !SLIDE
 

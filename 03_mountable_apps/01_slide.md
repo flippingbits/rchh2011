@@ -50,7 +50,3 @@
 
 # Rails Admin
 ## [https://github.com/sferik/rails_admin](https://github.com/sferik/rails_admin)
-
-!SLIDE center
-
-![rails_admin](rails_admin.png)
