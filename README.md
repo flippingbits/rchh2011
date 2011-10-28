@@ -16,5 +16,5 @@ The presentation is available at `http://localhost:9090`.
 
 ## Contact me
 
-Twitter: [@flipping\_bits](http://twitter.com/flipping_bits)
-Web:     [http://flippingbits.org](http://flippingbits.org)
+* Twitter: [@flipping\_bits](http://twitter.com/flipping_bits)
+* Web:     [http://flippingbits.org](http://flippingbits.org)
