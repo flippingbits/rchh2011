@@ -1,4 +1,4 @@
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # Mounting the app
 
@@ -37,7 +37,7 @@
 
 # Enjoy!
 
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # Real-life examples
 

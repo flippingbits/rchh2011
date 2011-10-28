@@ -12,15 +12,15 @@
 ### [http://flippingbits.org](http://flippingbits.org)
 ### [http://dkd.de](http://dkd.de)
 
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # Don't repeat yourself.
 
-!SLIDE big-headline
+!SLIDE big-headline center
 
 # Don't repeat <span class="underlined">code</span>.
 
-!SLIDE big-headline
+!SLIDE big-headline center
 
 # Don't repeat <span class="underlined">features</span>.
 
@@ -47,7 +47,7 @@
 * Search
 * \+ Mountable Apps
 
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # What's a Mountable App?
 
@@ -55,7 +55,7 @@
 
 # It's a Rails app in a Rails app.
 
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # Core Features
 

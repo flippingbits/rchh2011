@@ -1,4 +1,4 @@
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # Let's get our hands dirty
 

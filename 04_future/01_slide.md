@@ -1,4 +1,4 @@
-!SLIDE new-chapter
+!SLIDE new-chapter center
 
 # The future
 

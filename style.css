@@ -1,3 +1,17 @@
+/* Slide style */
+#preso, .slide {
+  background-color: transparent;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+	width: 1024px !important;
+  height: 768px !important;
+}
+
+#preso, .slide {
+  border: none !important;
+}
+
 body {
   font-family: "Actor", "helvetica neue", "helvetica", "lucida grande" , arial, sans-serif;
   color: #000;
@@ -9,6 +23,7 @@ body {
 
 h1 {
 	font-size: 65px;
+	line-height: 65px;
 }
 
 h2 {
@@ -53,6 +68,11 @@ code {
 	width: 740px;
 }
 
+.center {
+	width: 1024px !important;
+	height: 768px !important;
+}
+
 code {
 	font-size: 21px !important;
   display: block;
@@ -91,7 +111,7 @@ ul > li > ul > li:before {
 }
 
 .full-screen-image {
-	margin-top: 60px !important;
+	margin-top: 0px !important;
 }
 
 .full-screen-image p {
@@ -131,10 +151,10 @@ ul > li > ul > li:before {
   line-height: 80px;
 }
 
-.new-chapter h1 {
+.new-chapter {
 	background-color: #D94F00 !important;
 	color: #FFF;
-	line-height: 768px;
+	width: 1024px !important;
 }
 
 /* Code font*/
@@ -166,20 +186,6 @@ code {
   display: block;
   border: 1px dashed #263248;
   background-color: #ddd;
-}
-
-/* Slide style */
-#preso, .slide {
-  background-color: transparent;
-  box-shadow: none;
-  -moz-box-shadow: none;
-  -webkit-box-shadow: none;
-  height: 768px;
-}
-
-#preso, .slide {
-  border: none !important;
-  margin-top: -30px;
 }
 
 .slide .center-fixed-top {
