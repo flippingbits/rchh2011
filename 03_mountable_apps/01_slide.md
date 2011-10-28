@@ -46,7 +46,15 @@
 # Forem
 ## [https://github.com/radar/forem](https://github.com/radar/forem)
 
+!SLIDE full-screen-image
+
+![forem](forem.png)
+
 !SLIDE
 
 # Rails Admin
 ## [https://github.com/sferik/rails_admin](https://github.com/sferik/rails_admin)
+
+!SLIDE full-screen-image
+
+![rails_admin](rails_admin.png)

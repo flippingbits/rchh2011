@@ -1,7 +1,3 @@
-/**
-* Color scheme: http://kuler.adobe.com/#themeID/4817
-*/
-
 body {
   font-family: "Actor", "helvetica neue", "helvetica", "lucida grande" , arial, sans-serif;
   color: #000;
@@ -92,6 +88,15 @@ ul > li > ul > li:before {
 
 .underlined {
 	border-bottom: 10px solid #000;
+}
+
+.full-screen-image {
+	margin-top: 60px !important;
+}
+
+.full-screen-image p {
+	font-size: auto;
+	margin: 0 !important;
 }
 
 .features ul {
